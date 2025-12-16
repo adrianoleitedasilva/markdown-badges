@@ -512,7 +512,7 @@ Então, não espere mais! Explore o repositório hoje e comece a destacar o melh
 | PyTorch      | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)                 | `![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)`                 |
 | scikit-learn | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | `![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)` |
 | SciPy        | ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      | `![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)`  
-| Seaborn        | ![Seaborn](https://img.shields.io/badge/Seaborn-51D6FF.svg?style=for-the-badge&logo=Seaborn&logoColor=%white)                      | `![SciPy](https://img.shields.io/badge/SciPy-51D6FF.svg?style=for-the-badge&logo=Seaborn&logoColor=%white)`  |
+| Seaborn        | ![Seaborn](https://img.shields.io/badge/Seaborn-51D6FF.svg?style=for-the-badge&logo=Seaborn&logoColor=%white)                      | `![Seaborn](https://img.shields.io/badge/Seaborn-51D6FF.svg?style=for-the-badge&logo=Seaborn&logoColor=%white)`  |
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        | `![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)`        |
 
 ### 🎶 Música
