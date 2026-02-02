@@ -36,9 +36,14 @@ Então, não espere mais! Explore o repositório hoje e comece a destacar o melh
 
 ### 🤖 Inteligência Artificial
 
-| **Nome** | **Badge**                                                                                               | **Código**                                                                                                |
-| -------- | ------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Chat GPT | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) | `![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)` |
+| **Nome**           | **Badge**                                                                                                                                   | **Código**                                                                                                                                    |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Chat GPT           | ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)                                     | `![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)`                                     |
+| OpenAPI_Initiative | ![OpenAPI_Initiative](https://img.shields.io/badge/OpenAI_API_Iniciative-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white) | `![OpenAPI_Initiative](https://img.shields.io/badge/OpenAI_API_Iniciative-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)` |
+| Google Gemini      | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)                   | `![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)`                   |
+| Claude             | ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)                                       | `![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)`                                       |
+| Hugging Face       | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=claude&logoColor=black)                           | `![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=claude&logoColor=black)`                           |
+| LangChain          | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)                              | `![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)`                              |
 
 ### BOTs
 
@@ -49,11 +54,16 @@ Então, não espere mais! Explore o repositório hoje e comece a destacar o melh
 
 ### Ferramentas de Blog
 
-| **Nome** | **Badge**                                                                                                  | **Código**                                                                                                   |
-| -------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Dev      | ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white) | `![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)` |
-| Medium   | ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)      | `![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)`      |
-| Rss      | ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)               | `![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)`               |
+| **Nome**  | **Badge**                                                                                                      | **Código**                                                                                                       |
+| --------- | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Dev       | ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)     | `![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)`     |
+| Medium    | ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)          | `![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)`          |
+| Rss       | ![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)                   | `![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)`                   |
+| Hashnode  | ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)    | `![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)`    |
+| Ghost     | ![Ghost](https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=ghost&logoColor=white)             | `![Ghost](https://img.shields.io/badge/Ghost-15171A?style=for-the-badge&logo=ghost&logoColor=white)`             |
+| WordPress | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | `![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)` |
+| Substack  | ![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)    | `![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)`    |
+| Blogger   | ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)       | `![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)`       |
 
 ### Navegadores(Browsers)
 
@@ -66,6 +76,8 @@ Então, não espere mais! Explore o repositório hoje e comece a destacar o melh
 | IE            | ![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white) | `![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white)` |
 | Opera         | ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)                          | `![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)`                          |
 | Safari        | ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)                       | `![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)`                       |
+| Vivaldi       | ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=vivaldi&logoColor=white)                    | `![Vivaldi](https://img.shields.io/badge/Safari-EF3939?style=for-the-badge&logo=vivaldi&logoColor=white)`                     |
+| Tor Browser   | ![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white)         | `![Tor Browser](https://img.shields.io/badge/Tor_Browser-7D4698?style=for-the-badge&logo=torbrowser&logoColor=white)`         |
 
 ### 🔬 Continuous Integration
 
@@ -77,7 +89,10 @@ Então, não espere mais! Explore o repositório hoje e comece a destacar o melh
 | GitLab CI      | ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)                  | `![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)`                  |
 | GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | `![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)` |
 | TeamCity       | ![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)                       | `![TeamCity](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)`                       |
-| Travis CI      | ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)                   | `![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)`                   |
+| Travis CI      | ![TravisCI](https://img.shields.io/badge/travis_ci-3EAAAF.svg?style=for-the-badge&logo=travisci&logoColor=white)                      | `![TravisCI](https://img.shields.io/badge/travis_ci-3EAAAF.svg?style=for-the-badge&logo=travisci&logoColor=white)`                      |
+| Jenkins        | ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)                          | `![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)`                          |
+| Buildkite      | ![Buildkite](https://img.shields.io/badge/Buildkite-14CC80.svg?style=for-the-badge&logo=buildkite&logoColor=white)                    | `![Buildkite](https://img.shields.io/badge/Buildkite-14CC80.svg?style=for-the-badge&logo=buildkite&logoColor=white)`                    |
+| Spinnaker      | ![Spinnaker](https://img.shields.io/badge/Spinnaker-139BB4.svg?style=for-the-badge&logo=spinnaker&logoColor=white)                    | `![BuSpinnakerildkite](https://img.shields.io/badge/Spinnaker-139BB4.svg?style=for-the-badge&logo=spinnaker&logoColor=white)`           |
 
 ### 📲 Continuous Delivery
 
@@ -122,6 +137,10 @@ Então, não espere mais! Explore o repositório hoje e comece a destacar o melh
 | Supabase             | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)                                           | `![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)`                                           |
 | SurrealDB            | ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)                                        | `![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)`                                        |
 | Teradata             | ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)                                           | `![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)`                                           |
+| Elasticsearch        | ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)                            | `![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)`                            |
+| Snowflake            | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)                                        | `![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)`                                        |
+| ClickHouse           | ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)                                     | `![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)`                                     |
+| DuckDB               | ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)                                                 | `![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)`                                                 |
 
 ### 🎨 Ferramentas para Design
 
@@ -226,6 +245,10 @@ Então, não espere mais! Explore o repositório hoje e comece a destacar o melh
 | Phonepe         | ![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)                            | `![Phonepe](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)`                            |
 | Samsung Pay     | ![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)             | `![Samsung Pay](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)`             |
 | Wise            | ![Wise](https://img.shields.io/badge/wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)                                    | `![Wise](https://img.shields.io/badge/Wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)`                                    |
+| Mercado Pago    | ![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)              | `![Mercado Pago](https://img.shields.io/badge/Mercado_Pago-00B1EA?style=for-the-badge&logo=mercadopago&logoColor=white)`              |
+| Stripe          | ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)                               | `![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)`                               |
+| PagSeguro       | ![PagSeguro](https://img.shields.io/badge/PagSeguro-FFC801?style=for-the-badge&logo=pagseguro&logoColor=black)                      | `![PagSeguro](https://img.shields.io/badge/PagSeguro-FFC801?style=for-the-badge&logo=pagseguro&logoColor=black)`                      |
+| Square          | ![Square](https://img.shields.io/badge/Square-3E4348?style=for-the-badge&logo=square&logoColor=white)                               | `![Square](https://img.shields.io/badge/Square-3E4348?style=for-the-badge&logo=square&logoColor=white)`                               |
 
 ### 📚 Frameworks, Platforms and Libraries
 
@@ -511,8 +534,8 @@ Então, não espere mais! Explore o repositório hoje e comece a destacar o melh
 | Plotly       | ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)                    | `![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)`                    |
 | PyTorch      | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)                 | `![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)`                 |
 | scikit-learn | ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) | `![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)` |
-| SciPy        | ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      | `![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)`  
-| Seaborn        | ![Seaborn](https://img.shields.io/badge/Seaborn-51D6FF.svg?style=for-the-badge&logo=Seaborn&logoColor=%white)                      | `![Seaborn](https://img.shields.io/badge/Seaborn-51D6FF.svg?style=for-the-badge&logo=Seaborn&logoColor=%white)`  |
+| SciPy        | ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)                      | `![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)`                      |
+| Seaborn      | ![Seaborn](https://img.shields.io/badge/Seaborn-51D6FF.svg?style=for-the-badge&logo=Seaborn&logoColor=%white)                   | `![Seaborn](https://img.shields.io/badge/Seaborn-51D6FF.svg?style=for-the-badge&logo=Seaborn&logoColor=%white)`                   |
 | TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)        | `![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)`        |
 
 ### 🎶 Música
